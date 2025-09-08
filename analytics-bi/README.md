@@ -5,4 +5,4 @@ Dashboards and reports for operational, sales, and market analysis.
 - **Crimes Against Persons.pbix** – PowerBI dashboard for public safety data  
 - **Multi-Source Sales Performance.twbx** – Tableau sales and channel performance dashboard  
 - **SuperDrugs Prescription Analysis.twbx** – Tableau healthcare sales dashboard  
-- **Revenue Opportunities.pbix** – PowerBI dashboard identifying growth opportunities 
+- **Employee Data BI Dashboard.pbix** - PowerBI dashboard identifying pay disparities 
