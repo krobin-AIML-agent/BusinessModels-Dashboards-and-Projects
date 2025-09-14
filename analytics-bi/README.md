@@ -1,8 +1,7 @@
 # Analytics & BI Dashboards
-Dashboards and reports for operational, sales, and market analysis.
-
-- **Call Center Data Analysis.xlsx** – Service operations data model  
-- **Crimes Against Persons.pbix** – PowerBI dashboard for public safety data  
-- **Multi-Source Sales Performance.twbx** – Tableau sales and channel performance dashboard  
-- **SuperDrugs Prescription Analysis.twbx** – Tableau healthcare sales dashboard  
-- **Employee Data BI Dashboard.pbix** - PowerBI dashboard identifying pay disparities 
+Portfolio Stats
+Total Projects: 10 (8+ Tableau, (1+ Power BI)
+Dashboards & Stories: 13+
+Worksheets/Views: 45+
+Calculated Fields / DAX Measures: 60+
+Platforms: Tableau Desktop, Tableau Stories, Power BI, PostegreSQL,Excel
