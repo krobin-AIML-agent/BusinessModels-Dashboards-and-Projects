@@ -48,6 +48,3 @@ Balance technical accuracy with clear, professional presentation.
 Download the .twbx files from this repo.
 Open them in Tableau Desktop (2021.1 or newer).
 Explore the interactive worksheets and dashboards.
-
-📬 Contact
-If you’d like to learn more about these projects or discuss analytics/operations opportunities, connect with me on LinkedIn or email me at [your email here].
