@@ -1,0 +1,47 @@
+This project visualizes the end-to-end process flow for Mil-Spec sustainment operations, mapping how customer requests are transformed into order fulfillment and delivery. It connects customers, requests, fulfillment processes, transportation modes, and end customers into a clear operational structure.
+The model highlights daily, weekly, and ad-hoc request flows, as well as the role of administration, packaging, light manufacturing, and shipping in supporting sustainment operations.
+
+🔧 Purpose
+Provide a visual framework for how Mil-Spec operational requests flow through the organization.
+Clarify dependencies between administration, sustainment processes, and logistics.
+Highlight modes of transportation and their role in connecting operations to end customers.
+Serve as a standard reference model for sustainment and logistics planning.
+
+📂 Features
+1. Customer Requests
+Internal & External Customers initiate:
+Admin Requests (Daily).
+Mil-Spec Sustainment Operations (Weekly).
+Project Requests (Ad-Hoc).
+
+2. Order Fulfillment Process
+Administration (admin support & coordination).
+Packaging (handling & prep).
+Light Manufacturing (assembly/customization).
+Shipping (distribution execution).
+
+3. Modes of Transportation
+MHE (Forklifts, pallet jacks).
+Flatbed (truck transport).
+
+4. End Customers
+Dedicated Carrier
+53’ Flatbed Truck
+Distribution Management Office (DMO)
+Recycling & Repair Office
+
+🚀 Benefits
+Process Clarity: Provides a single-view map of sustainment operations.
+Training Tool: Helps new team members understand how requests flow through the system.
+Decision Support: Identifies dependencies across admin, operations, and logistics.
+Scalability: Can be adapted to other supply chain and sustainment workflows.
+
+🧩 Use Cases
+Military & Defense Logistics: Model sustainment operations for mission readiness.
+Process Improvement: Identify bottlenecks in packaging, light manufacturing, or shipping.
+Supply Chain Strategy: Clarify customer-to-end-user value streams.
+Training & Standard Work: Provide teams with a reference process map.
+
+📌 Notes
+Designed as a visual process map for sustainment operations.
+Built in alignment with TOC and Lean process thinking.
