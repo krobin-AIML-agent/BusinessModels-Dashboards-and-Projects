@@ -10,6 +10,7 @@ Role & Ethnicity Breakdown → Intersectional analysis of roles, pay equity, and
 Tenure Trends → Tenure band analysis with conditional classifications (Newbie, Been Around, Veteran).
 
 🛠️ Technical Skills Demonstrated
+
 🔹 Power Query (ETL / Data Prep)
 Added custom conditional columns:
 Age Brackets (e.g., 20–30, 30–40, 40–50, etc.)
