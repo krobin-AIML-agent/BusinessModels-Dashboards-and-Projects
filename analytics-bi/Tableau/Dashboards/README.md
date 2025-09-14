@@ -30,6 +30,7 @@ Worksheets: Avg Selling Price by Neighborhood, Neighborhood Availability by Hous
 Calculated Fields: Total finished square footage, Price per sq ft, Property age (2024-[YearBuilt]), Availability flag by sale condition.
 Techniques Used: Ratio metrics, logical IF/THEN classification, neighborhood comparisons.
 Business Value: Provides market insights into pricing trends, affordability, and housing availability by region.
+
 🛠️ Technical Skills Demonstrated
 Tableau Core: Calculated fields, IF/THEN logic, percent-of-total, ranking, ratio metrics, data parsing with string functions.
 Visualization Variety: Maps, bubble charts, treemaps, word clouds, categorical comparisons.
