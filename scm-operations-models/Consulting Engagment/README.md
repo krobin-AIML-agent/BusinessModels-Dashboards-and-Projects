@@ -3,6 +3,7 @@ Project Portfolio – Operations & Process Improvement (30-60-90)
 This repository highlights cross-functional consulting and program management projects that integrate scheduling, ERP, data analytics, and governance into one ecosystem.
 
 🔑 Featured Projects
+
 **AWS Survey (Don Anglea, OE) → Organizational effectiveness survey and analysis.**
 
 **Center of Excellence (CoE) Revision → Redesign of operational governance and best-practice alignment.**
