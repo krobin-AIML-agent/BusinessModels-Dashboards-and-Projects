@@ -1,4 +1,5 @@
 **🚀 Supply Chain Analytics Pipeline 🔎**
+
 **📌 Project Overview**
 
 **Built a full end-to-end data engineering and analytics pipeline on supply chain data, transforming raw files into a relational database, and delivering business-ready dashboards for supply chain and market intelligence.**
