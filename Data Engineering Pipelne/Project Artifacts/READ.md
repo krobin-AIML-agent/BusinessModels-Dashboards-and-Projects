@@ -1,92 +1,80 @@
-Supply Chain Analytics Pipeline
-🔎 Project Overview
+**🚀 Supply Chain Analytics Pipeline 🔎**
+**📌 Project Overview**
 
-This project demonstrates an end-to-end data engineering and analytics workflow built on real-world style supply chain data. Starting with a raw dataset, I designed a relational schema, performed data cleaning and transformation, and created visual analytics dashboards to deliver actionable insights for supply chain and market analysis.
+**Built a full end-to-end data engineering and analytics pipeline on supply chain data, transforming raw files into a relational database, and delivering business-ready dashboards for supply chain and market intelligence.**
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Data Cleaning & Prep: Power Query, Excel
 
-Database: PostgreSQL 17
+Database: PostgreSQL 17 (via pgAdmin)
 
-Schema Design & ERD: pgAdmin, custom relational modeling
+Schema Design & ERD: Custom relational modeling
 
 Data Transformation: SQL (joins, constraints, indexes)
 
-Visualization: Tableau & Power BI
+Visualization: Tableau, Power BI
 
-Data Source: DataCo Supply Chain Dataset (https://www.kaggle.com/code/devraai/logistics-data-analysis-and-delay-prediction)
+Dataset: DataCo Supply Chain (Kaggle)- https://www.kaggle.com/code/devraai/logistics-data-analysis-and-delay-prediction
 
-📂 Pipeline Steps
+**📂 Pipeline Steps**
 
-Raw Data Ingestion
+**1. Raw Data Ingestion**
 
-Imported supply chain dataset (180K+ rows, 22 tables, 48 columns).
+Imported 180K+ rows, 22 tables, 48 columns of raw logistics data.
 
-Cleaned data for consistency (duplicates, nulls, outliers).
+Cleaned for duplicates, nulls, and outliers.
 
-Data Cleaning
+**2. Data Cleaning**
 
-Standardized fields in Power Query (data types, formatting).
+Standardized data types and formatting in Power Query.
 
-Additional transformations and enrichment in Excel.
+Performed enrichment and transformations in Excel.
 
-Database Design
+**3. Database Design**
 
-Designed normalized schema (Supply Chain, Order Mart, World Market, etc.).
+Designed normalized schemas (Supply Chain, Order Mart, World Market).
 
-Built Entity Relationship Diagrams (ERDs) to map relationships between:
+Built ERDs mapping relationships across:
 
-Customers
+Customers | Orders | Sales | Products | Suppliers | Shippers | Employees
 
-Orders
+**4. Data Loading**
 
-Sales
+Loaded datasets into PostgreSQL.
 
-Products
+Applied constraints, indexes, joins for performance + integrity.
 
-Suppliers
+**5. Data Modeling & Querying**
 
-Shippers
+Wrote SQL joins/views for:
 
-Employees
+Delivery status tracking
 
-Data Loading
+Order profitability
 
-Uploaded cleaned datasets into PostgreSQL.
+Late shipment risk
 
-Implemented constraints, indexes, and joins for performance and integrity.
+Regional sales trends
 
-Data Modeling & Querying
+**6. Visualization & Insights**
 
-Wrote SQL joins to connect business entities.
+Connected PostgreSQL to Tableau & Power BI.
 
-Created views for delivery status, order profitability, late shipment risk, and regional sales trends.
+**Designed dashboards for:**
 
-Visualization & Insights
+📦 Sales by Market & Region Profitability by Order
 
-Connected PostgreSQL to Tableau and Power BI.
+⏰ Time-of-Day sales insights
 
-Designed dashboards highlighting:
+**🎯 Key Skills Demonstrated**
 
-📦 Sales by Market & Region by Order Profitability
+✅ End-to-end ETL pipeline development
 
-📈 Sample Visuals
+✅ Relational schema & ERD design
 
-ERD Models: Logical schema showing data relationships.
+✅ SQL (joins, constraints, query optimization)
 
-Tableau Dashboard: Sales by Market & Region with time-of-day insights.
+✅ Data visualization (Tableau & Power BI)
 
-Power BI Dashboard: Interactive supply chain KPIs.
-
-🎯 Key Skills Demonstrated
-
-End-to-end ETL pipeline development
-
-Database schema design & ER modeling
-
-SQL for analysis (joins, constraints, query optimization)
-
-Data visualization in Tableau & Power BI
-
-Translating raw data into business-ready insights
+✅ Turning raw data into actionable supply chain insights
