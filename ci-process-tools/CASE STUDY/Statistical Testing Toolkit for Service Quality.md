@@ -1,0 +1,32 @@
+# Problem
+- In operations and service environments, leaders often struggle to connect process metrics (like resolution time and defect rates) with customer outcomes (like satisfaction). Analyses were usually performed ad hoc, requiring analysts to rebuild formulas and outputs each time. This wasted time, introduced errors, and slowed down decision-making.
+
+# Approach
+- I developed a Statistical Tests Toolkit in Excel to centralize and standardize key analyses. The toolkit was designed as a plug-and-play model: drop in process data → receive descriptive statistics, regression outputs, and ANOVA results instantly.
+
+# Key Features:
+- Descriptive Statistics
+- mean, median, mode, variance, skewness, kurtosis.
+- Added Upper/Lower Control Limits (UCL/LCL) to evaluate process stability.
+
+# Linear Regression
+- Modeled relationships between process metrics and customer outcomes.
+- Example: tested whether reducing resolution time increased customer satisfaction (CSAT).
+
+# ANOVA (Analysis of Variance)
+- Compared defect rates and satisfaction scores across teams or product categories.
+- Identified statistically significant differences in performance.
+
+# Results
+- Faster Analysis: Reduced time to run descriptive + inferential statistics from hours to minutes.
+- Mistake-Proofed Calculations: Standardized formulas eliminated the risk of inconsistent results.
+
+# Process Insights:
+- Found that resolution time was stable within control limits (UCL ≈ 39.8, LCL ≈ 20.2).
+- Demonstrated correlation between faster resolution and higher CSAT using regression.
+- ANOVA revealed significant differences in defect rates between groups, highlighting improvement targets.
+
+# Impact
+- Equipped managers and CI teams with a reusable, reliable toolkit for decision support.
+- Linked operational performance directly to customer experience metrics.
+- Enabled data-driven prioritization in Continuous Improvement projects.
