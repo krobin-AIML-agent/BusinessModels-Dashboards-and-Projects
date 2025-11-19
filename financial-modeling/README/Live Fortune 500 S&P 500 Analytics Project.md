@@ -1,5 +1,5 @@
 This project is a live analytics environment that tracks Fortune 500 and S&P 500 companies with continuously updating data. It centralizes stock prices, financial ratios, market caps, industries, and company fundamentals into a single system for benchmarking, strategy, and continuous improvement analysis.
-Unlike static spreadsheets, this is a living project — refreshed regularly to reflect the most current market data.
+Unlike static spreadsheets, this is a living project refreshed regularly to reflect the most current market data.
 
 ## Purpose
 - Provide a real-time view of S&P 500 and Fortune 500 company metrics.
