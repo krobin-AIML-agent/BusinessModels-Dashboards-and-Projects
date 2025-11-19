@@ -1,0 +1,50 @@
+This project is a corporate financial analysis toolkit built in Excel. It combines common size statements (vertical analysis of financials) with financial ratio benchmarking to evaluate Walmart’s performance relative to Costco and industry averages.
+The workbook standardizes raw data into constructed financial statements, applies trend and ratio analysis, and highlights key performance drivers.
+
+## Purpose
+- Provide a structured framework for common size and ratio analysis.
+- Benchmark a company against peers and industry averages.
+- Identify drivers of financial performance across liquidity, profitability, efficiency, and leverage.
+- Support decision-making and competitive analysis in corporate finance and strategy.
+
+## Features
+1. Raw Data & Constructed Financials
+- Raw income statement and balance sheet data.
+- Cleaned, structured financials for analysis.
+
+2. Common Size Analysis
+- Walmart financials expressed as % of sales.
+
+## Comparisons:
+- Walmart vs. Industry Avg.
+- Walmart vs. Costco
+
+3. Financial Ratios (Trend Analysis)
+- Liquidity Ratios → current ratio, quick ratio.
+- Profitability Ratios → gross margin, net margin, ROA, ROE.
+- Leverage Ratios → debt/equity, interest coverage.
+- Efficiency Ratios → inventory turnover, asset turnover.
+
+4. Comparative Benchmarking
+- Multi-year trendlines for Walmart vs industry vs Costco.
+- Pinpoints where Walmart outperforms/underperforms.
+
+5. Drivers Analysis
+- Identifies operational and strategic drivers behind financial differences.
+- Example: Costco’s higher inventory turnover vs Walmart’s scale advantages.
+
+## Benefits
+- Clarity: Converts raw data into decision-ready insights.
+- Comparability: Industry and peer benchmarks add context beyond standalone metrics.
+- Storytelling: Explains why differences exist, not just what they are.
+- Scalability: Framework can be reused for any company/industry pair.
+
+## Use Cases
+- Investor Analysis: Compare corporate performance against peers.
+- Corporate Strategy: Identify cost structure differences and efficiency levers.
+- Education & Training: Demonstrates core finance concepts in a real-world case.
+- CI/Operations Link: Translate operational efficiency (turnover, margins) into financial outcomes.
+
+## Notes
+- Data includes Walmart, Costco, and industry averages for benchmarking.
+- Built in Excel for accessibility and adaptability.
