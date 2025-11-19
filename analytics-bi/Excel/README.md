@@ -1,5 +1,5 @@
 # Call Center Data Analysis (Excel Dashboard + RCA)
-- This project showcases an Excel-based analytics dashboard for a call center dataset. It combines customer sentiment analysis, CSAT scoring, SLA monitoring, and cost forecasting with high-- - level Root Cause Analysis (RCA) to connect operational issues to customer dissatisfaction.
+- This project showcases an Excel-based analytics dashboard for a call center dataset. It combines customer sentiment analysis, CSAT scoring, SLA monitoring, and cost forecasting with high level Root Cause Analysis (RCA) to connect operational issues to customer dissatisfaction.
 
 # Key Features
 - Pareto Analysis (RCA): Identified top drivers of customer complaints (Billing Questions = 71%, Payments = 17%, Service Outage = 11%).
