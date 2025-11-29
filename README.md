@@ -5,11 +5,11 @@ This repository is a curated library of applied business intelligence systems an
 It serves as a **proof-of-value portfolio**, showcasing how financial, operational, and data systems can be designed for scalability, resilience, and decision intelligence.
 
 ## Contents
-- **analytics-bi/** → BI dashboards, PowerBI/Tableau projects, reporting templates  
-- **ci-process-tools/** → Lean/Six Sigma diagnostics, process improvement playbooks  
-- **financial-modeling/** → cash flow, forecasting, and investment scenario models  
-- **scm-operations-models/** → supply chain optimization, network design, simulation cases  
-- **Data Engineering Pipeline/** → SQL + ETL artifacts, schemas, and project structures  
+- **analytics-bi** → BI dashboards, PowerBI/Tableau projects, reporting templates  
+- **ci-process-tools** → LeanSix Sigma diagnostics, process improvement playbooks  
+- **financial-modeling** → cash flow, forecasting, and investment scenario models  
+- **scm-operations-models** → supply chain optimization, network design, simulation cases  
+- **Data Engineering Pipeline** → SQL + ETL artifacts, schemas, and project structures  
 
 ## Use Cases
 - Strategic decision support for executives  
